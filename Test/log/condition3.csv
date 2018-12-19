@@ -1,0 +1,9 @@
+Input,1875
+FCLayer,1
+Neuron[0],256
+Output,3
+TrainingSet,3100
+ValidationSet,2066
+Accuracy(%),99.9
+Learning_rate,0.001
+Momentum,0.9
